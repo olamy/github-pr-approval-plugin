@@ -54,7 +54,7 @@
         <artifactId>bom-${jenkins.baseline}.x</artifactId>
         <!-- Matches the BOM the MCP Server plugin is built against, so its jackson3-api/git/
              workflow-cps floors are satisfied and it starts in tests. -->
-        <version>6931.vea_a_b_c6fd017d</version>
+        <version>7002.v028a_3607ddc8</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
